@@ -1,59 +1,131 @@
 {
-	"cities": [{
-			"id": 1,
-			"name": "Москва"
-		},
-		{
-			"id": 2,
-			"name": "Рязань"
-		},
-		{
-			"id": 3,
-			"name": "Новосибирск"
-		},
-		   {
-			   "id" :4,
-			   "name" : "Касимов"
-		   }
-	],
-	"suppliers": [{
-			"id": 1,
-			"name": "Рога и копыта",
-			"citiid": 2
-		},
-		{
-			"id": 2,
-			"name": "Мясо есть!",
-			"citiid": 2
-		},
-		{
-			"id": 3,
-			"name": "Пельменная",
-			"citiid": 2
-		},
-		{
-			"id": 4,
-			"name": "Ресторан Москва",
-			"citiid": 1
-		}
-	],
-	"dishes": [{
-			"id": 1,
-			"name": "Пельмень из теленка",
-			"weight": 10.5,
-			"price": 140.99,
-			"image": "C:\\source\\repos\\DjuzFood\\DjuzFood",
-			"active": true,
-			"inSale": true,
-			"description": "Мясо покрытое растопленной моцареллой, томатно-чесночным соусом и пармезаном давно полюбилось местным посетителям пабов.",
-			"dateTimeCreate": "1995-07-05T00:00:00",
-			"dateTimeModified": "2010-07-05T00:00:00",
-			"totalProtein": 5,
-			"totalFat": 33,
-			"totalCarbohydrate": 43,
-			"totalCalories": 13,
-			"salesPriority": 2
-		}
-	]
-
+  "cities": [
+    {
+      "id": 1,
+      "name": "Москва"
+    },
+    {
+      "id": 2,
+      "name": "Рязань"
+    },
+    {
+      "id": 3,
+      "name": "Новосибирск"
+    },
+    {
+      "id": 4,
+      "name": "Касимов"
+    }
+  ],
+  "suppliers": [
+    {
+      "id": 1,
+      "name": "Рога и копыта",
+      "citiid": 2
+    },
+    {
+      "id": 2,
+      "name": "Мясо есть!",
+      "citiid": 2
+    },
+    {
+      "id": 3,
+      "name": "Пельменная",
+      "citiid": 2
+    },
+    {
+      "id": 4,
+      "name": "Ресторан Москва",
+      "citiid": 1
+    }
+  ],
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Пельмень из теленка",
+      "weight": 10.5,
+      "price": 140.99,
+      "image": "C:\\source\\repos\\DjuzFood\\DjuzFood",
+      "active": true,
+      "inSale": true,
+      "description": "Мясо покрытое растопленной моцареллой, томатно-чесночным соусом и пармезаном давно полюбилось местным посетителям пабов.",
+      "dateTimeCreate": "1995-07-05T00:00:00",
+      "dateTimeModified": "2010-07-05T00:00:00",
+      "totalProtein": 5,
+      "totalFat": 33,
+      "totalCarbohydrate": 43,
+      "totalCalories": 13,
+      "salesPriority": 2,
+      "category": {
+        "id": 1,
+        "name": "Первые блюда",
+	"priority" : 1
+      },
+      "categoryId": 1,
+      "supplierId": 1,
+      "supplier": null,
+      "productIngredient": null,
+      "orderLines": null,
+      "complexDishDish": null,
+      "measurement": null
+    },
+{
+  "id": 2,
+  "name": "Шашлык на кости",
+  "weight": 100,
+  "price": 440,
+  "image": "C:\\source\\repos\\DjuzFood\\DjuzFood",
+  "active": true,
+  "inSale": true,
+  "description": "Куриное филе, покрытое растопленной моцареллой, томатно-чесночным соусом и пармезаном давно полюбилось местным посетителям пабов.",
+  "dateTimeCreate": "2000-07-05T00:00:00",
+  "dateTimeModified": "2070-07-05T00:00:00",
+  "totalProtein": 5,
+  "totalFat": 33,
+  "totalCarbohydrate": 43,
+  "totalCalories": 13,
+  "salesPriority": 3,
+  "category": {
+    "id": 1,
+    "name": "Первые блюда",
+    "priority": 2
+  },
+  "categoryId": 1,
+  "supplierId": 1,
+  "supplier": null,
+  "productIngredient": null,
+  "orderLines": null,
+  "complexDishDish": null,
+  "measurement": null
+},
+ {
+        "id": 3,
+        "name": "Курица с рисом",
+        "weight": 10,
+        "price": 140,
+        "image": "C:\\source\\repos\\DjuzFood\\DjuzFood",
+        "active": true,
+        "inSale": true,
+        "description": "Он похож на хорошо прожаренные объятия. Два кусочка тостерного хлеба склеиваются арахисовым маслом, обваливаются в яйце и поджариваются. Подаются со сливочным маслом и сиропом",
+        "dateTimeCreate": "1975-07-05T23:00:00",
+        "dateTimeModified": "2000-07-05T00:59:00",
+        "totalProtein": 5,
+        "totalFat": 33,
+        "totalCarbohydrate": 43,
+        "totalCalories": 13,
+        "salesPriority": 1,
+        "category": {
+            "id": 1,
+            "name": "Первые блюда",
+		"priority" : 3
+        },
+        "categoryId": 1,
+        "supplierId": 1,
+        "supplier": null,
+        "productIngredient": null,
+        "orderLines": null,
+        "complexDishDish": null,
+        "measurement": null
+    }	  
+  ]
 }
