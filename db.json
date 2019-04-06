@@ -40,7 +40,7 @@
 	"dishes": [{
 			"id": 1,
 			"name": "Пельмень из теленка",
-			"weight": 10.4
+			"weight": 10.4,
 			"price": 140.99,
 			"image": "C:\\source\\repos\\DjuzFood\\DjuzFood",
 			"active": true,
