@@ -35,31 +35,8 @@
 	],
 	"dishes": [{
 			"id": 1,
-			"name": "Пельмень из теленка",
-			"weight": 10.4,
-			"price": 140.99,
-			"image": "C:\\source\\repos\\DjuzFood\\DjuzFood",
-			"active": true,
-			"inSale": true,
-			"description": "Мясо покрытое растопленной моцареллой, томатно-чесночным соусом и пармезаном давно полюбилось местным посетителям пабов.",
-			"dateTimeCreate": "1995-07-05T00:00:00",
-			"dateTimeModified": "2010-07-05T00:00:00",
-			"totalProtein": 5,
-			"totalFat": 33,
-			"totalCarbohydrate": 43,
-			"totalCalories": 13,
-			"salesPriority": 2,
-			"category": {
-				"id": 2,
-				"name": "Мясные блюда"
-			},
-			"categoryId": 2,
-			"supplierId": 1,
-			"supplier": null,
-			"productIngredient": null,
-			"orderLines": null,
-			"complexDishDish": null,
-			"measurement": null
+			"name": "Пельмень из теленка"
+
 		}
 	]
 
