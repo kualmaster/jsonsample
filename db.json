@@ -12,9 +12,8 @@
       "id": 3,
       "name": "Новосибирск"
     }
-  ]
-  
-  "suppliers": [
+  ],
+   "suppliers": [
    { "id" : 1,
      "name" : "Рога и копыта"
      "citiid" : 2
