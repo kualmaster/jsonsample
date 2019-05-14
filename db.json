@@ -22,60 +22,61 @@
       "id": 1,
       "name": "Рога и копыта",
       "cityid": 2,
-      "rating", 1
+      "rating" : 1
     },
     {
       "id": 2,
       "name": "Мясо есть!",
       "cityid": 2,
-      "rating", 2
+      "rating": 2
     },
     {
       "id": 3,
       "name": "Пельменная",
       "cityid": 2,
-      "rating", 3
+      "rating": 3
     },
     {
       "id": 4,
       "name": "Ресторан Москва",
       "cityid": 1,
-      "rating", 4
+      "rating": 4
     },
     {
       "id": 5,
       "name": "Бар Санузел",
       "cityid": 2,
-      "rating", 5
+      "rating": 5
     },
     {
       "id": 6,
       "name": "Любимое кафе",
       "cityid": 2,
-      "rating", 6
+      "rating": 6
     },
     {
       "id": 7,
       "name": "Седьмое небо",
       "cityid": 1,
-      "rating", 7
+      "rating": 7
     },
     {
       "id": 8,
       "name": "Сохо румс",
       "cityid": 1,
-      "rating", 8
+      "rating": 8
     },
     {
       "id": 9,
       "name": "Снежинка",
       "cityid": 2,
-      "rating", 9
+      "rating": 9
     },
     {
       "id": 10,
       "name": "Как у мамы",
-      "cityid": 2
+      "cityid": 2,
+      "rating": 10
     }
   ],
   "dishes":[
