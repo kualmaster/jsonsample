@@ -23,70 +23,70 @@
       "name": "Рога и копыта",
       "cityid": 2,
       "rating": 1,
-      "imageurl" : "https://cloud.mail.ru/public/e7Xg/jnNuBBjnd"
+      "imageurl" : "https://github.com/kualmaster/jsonsample/blob/master/Supplier01.jpg"
     },
     {
       "id": 2,
       "name": "Мясо есть!",
       "cityid": 2,
       "rating": 2,
-      "imageurl" : ""
+      "imageurl" : "https://github.com/kualmaster/jsonsample/blob/master/Supplier02.jpg"
     },
     {
       "id": 3,
       "name": "Пельменная",
       "cityid": 2,
       "rating": 3,
-      "imageurl" : ""
+      "imageurl" : "https://github.com/kualmaster/jsonsample/blob/master/Supplier03.jpg"
     },
     {
       "id": 4,
       "name": "Ресторан Москва",
       "cityid": 1,
       "rating": 4,
-      "imageurl" : ""
+      "imageurl" : "https://github.com/kualmaster/jsonsample/blob/master/Supplier04.jpg"
     },
     {
       "id": 5,
       "name": "Бар Санузел",
       "cityid": 2,
       "rating": 5,
-      "imageurl" : ""
+      "imageurl" : "https://github.com/kualmaster/jsonsample/blob/master/Supplier05.jpg"
     },
     {
       "id": 6,
       "name": "Любимое кафе",
       "cityid": 2,
       "rating": 6,
-      "imageurl" : ""
+      "imageurl" : "https://github.com/kualmaster/jsonsample/blob/master/Supplier06.jpg"
     },
     {
       "id": 7,
       "name": "Седьмое небо",
       "cityid": 1,
       "rating": 7,
-      "imageurl" : ""
+      "imageurl" : "https://github.com/kualmaster/jsonsample/blob/master/Supplier07.jpg"
     },
     {
       "id": 8,
       "name": "Сохо румс",
       "cityid": 1,
       "rating": 8,
-      "imageurl" : ""
+      "imageurl" : "https://github.com/kualmaster/jsonsample/blob/master/Supplier08.jpg"
     },
     {
       "id": 9,
       "name": "Снежинка",
       "cityid": 2,
       "rating": 9,
-      "imageurl" : ""
+      "imageurl" : "https://github.com/kualmaster/jsonsample/blob/master/Supplier09.jpg"
     },
     {
       "id": 10,
       "name": "Как у мамы",
       "cityid": 2,
       "rating": 10,
-      "imageurl" : ""
+      "imageurl" : "https://github.com/kualmaster/jsonsample/blob/master/Supplier10.jpg"
     }
   ],
   "dishes":[
