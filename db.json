@@ -92,185 +92,131 @@
   "dishes":[
     {
         "id": 1,
-        "name": "Курица с рисом",
+        "name": "Борщ",
         "weight": 10.4,
         "price": 140.99,
-        "image": "C:\\source\\repos\\DjuzFood\\DjuzFood",
-        "active": true,
-        "inSale": true,
-        "description": "Он похож на хорошо прожаренные объятия. Два кусочка тостерного хлеба склеиваются арахисовым маслом, обваливаются в яйце и поджариваются. Подаются со сливочным маслом и сиропом",
-        "dateTimeCreate": "1975-07-05T00:00:00",
-        "dateTimeModified": "2000-07-05T00:00:00",
+        "image": "",
+        "description": "Борщ с говядиной",
         "totalProtein": 5,
         "totalFat": 33,
         "totalCarbohydrate": 43,
         "totalCalories": 13,
         "salesPriority": 1,
-        "category": null,
+        "categoryName": "Первые блюда",
         "categoryId": 1,
-        "supplierId": 1,
-        "supplier": null,
-        "dishIngredients": [
-            {
-                "id": 1,
-                "ingredientId": 1,
-                "ingredient": {
-                    "id": 1,
-                    "name": "Лук",
-                    "protein": 0.02,
-                    "fat": 0.52,
-                    "carbohydrate": 2,
-                    "calories": 400,
-                    "dishIngredients": [],
-                    "beneficialPropertiesIngredients": [
-                        {
-                            "id": 1,
-                            "quantity": 0.5,
-                            "ingredientId": 1,
-                            "propertiesIngredientId": 1,
-                            "propertiesIngredient": {
-                                "id": 1,
-                                "longName": "Кальций",
-                                "name": "Ca",
-                                "beneficialPropertiesIngredients": []
-                            },
-                            "measurement": null
-                        }
-                    ],
-                    "ingredientCategory": null
-                },
-                "dishId": 1
-            },
-            {
-                "id": 2,
-                "ingredientId": 2,
-                "ingredient": {
-                    "id": 2,
-                    "name": "Говядина",
-                    "protein": 0.02,
-                    "fat": 0.52,
-                    "carbohydrate": 2,
-                    "calories": 400,
-                    "dishIngredients": [],
-                    "beneficialPropertiesIngredients": [
-                        {
-                            "id": 2,
-                            "quantity": 0.5,
-                            "ingredientId": 2,
-                            "propertiesIngredientId": 2,
-                            "propertiesIngredient": {
-                                "id": 2,
-                                "longName": "Магний",
-                                "name": "Mg",
-                                "beneficialPropertiesIngredients": []
-                            },
-                            "measurement": null
-                        },
-                        {
-                            "id": 3,
-                            "quantity": 0.5,
-                            "ingredientId": 2,
-                            "propertiesIngredientId": 3,
-                            "propertiesIngredient": {
-                                "id": 3,
-                                "longName": "Железо",
-                                "name": "Fe",
-                                "beneficialPropertiesIngredients": []
-                            },
-                            "measurement": null
-                        }
-                    ],
-                    "ingredientCategory": null
-                },
-                "dishId": 1
-            }
-        ],
-        "orderLines": [],
-        "setLunchDishes": [],
-        "measurement": null
+        "supplierId": 1
     },
-    {
+        {
         "id": 2,
-        "name": "Пельмень из теленка",
+        "name": "Щи",
         "weight": 10.4,
         "price": 140.99,
-        "image": "C:\\source\\repos\\DjuzFood\\DjuzFood",
-        "active": true,
-        "inSale": true,
-        "description": "Мясо покрытое растопленной моцареллой, томатно-чесночным соусом и пармезаном давно полюбилось местным посетителям пабов.",
-        "dateTimeCreate": "1995-07-05T00:00:00",
-        "dateTimeModified": "2010-07-05T00:00:00",
+        "image": "",
+        "description": "Щи из капусты с говядиной",
+        "totalProtein": 5,
+        "totalFat": 33,
+        "totalCarbohydrate": 43,
+        "totalCalories": 13,
+        "salesPriority": 1,
+        "categoryName": "Первые блюда",
+        "categoryId": 1,
+        "supplierId": 1
+    },
+        {
+        "id": 3,
+        "name": "Суп грибной",
+        "weight": 10.4,
+        "price": 140.99,
+        "image": "",
+        "description": "Суп из шампиньонов",
+        "totalProtein": 5,
+        "totalFat": 33,
+        "totalCarbohydrate": 43,
+        "totalCalories": 13,
+        "salesPriority": 1,
+        "categoryName": "Первые блюда",
+        "categoryId": 1,
+        "supplierId": 1
+    },
+        {
+        "id": 3,
+        "name": "Омлет",
+        "weight": 10.4,
+        "price": 140.99,
+        "image": "",
+        "description": "Омлет из яиц",
         "totalProtein": 5,
         "totalFat": 33,
         "totalCarbohydrate": 43,
         "totalCalories": 13,
         "salesPriority": 2,
-        "category": null,
+        "categoryName": "Вторые блюда",
         "categoryId": 2,
-        "supplierId": 1,
-        "supplier": null,
-        "dishIngredients": [
-            {
-                "id": 3,
-                "ingredientId": 3,
-                "ingredient": {
-                    "id": 3,
-                    "name": "Вареная рыба",
-                    "protein": 0.02,
-                    "fat": 0.52,
-                    "carbohydrate": 2,
-                    "calories": 400,
-                    "dishIngredients": [],
-                    "beneficialPropertiesIngredients": [],
-                    "ingredientCategory": null
-                },
-                "dishId": 2
-            },
-            {
-                "id": 4,
-                "ingredientId": 4,
-                "ingredient": {
-                    "id": 4,
-                    "name": "Глутамат",
-                    "protein": 0.02,
-                    "fat": 0.52,
-                    "carbohydrate": 2,
-                    "calories": 400,
-                    "dishIngredients": [],
-                    "beneficialPropertiesIngredients": [],
-                    "ingredientCategory": null
-                },
-                "dishId": 2
-            }
-        ],
-        "orderLines": [],
-        "setLunchDishes": [],
-        "measurement": null
+        "supplierId": 1
     },
-    {
-        "id": 3,
-        "name": "Шашлык на кости",
-        "weight": 100,
-        "price": 440,
-        "image": "C:\\source\\repos\\DjuzFood\\DjuzFood",
-        "active": true,
-        "inSale": true,
-        "description": "Куриное филе, покрытое растопленной моцареллой, томатно-чесночным соусом и пармезаном давно полюбилось местным посетителям пабов.",
-        "dateTimeCreate": "2000-07-05T00:00:00",
-        "dateTimeModified": "2070-07-05T00:00:00",
+        {
+        "id": 4,
+        "name": "Плов",
+        "weight": 10.4,
+        "price": 140.99,
+        "image": "",
+        "description": "Плов из риса с бараниной",
+        "totalProtein": 5,
+        "totalFat": 33,
+        "totalCarbohydrate": 43,
+        "totalCalories": 13,
+        "salesPriority": 2,
+        "categoryName": "Вторые блюда",
+        "categoryId": 2,
+        "supplierId": 1
+    },
+        {
+        "id": 5,
+        "name": "Свинина с картошкой",
+        "weight": 10.4,
+        "price": 140.99,
+        "image": "",
+        "description": "Жареная свинина в сухарях с картошкой по-деревенски",
+        "totalProtein": 5,
+        "totalFat": 33,
+        "totalCarbohydrate": 43,
+        "totalCalories": 13,
+        "salesPriority": 2,
+        "categoryName": "Вторые блюда",
+        "categoryId": 2,
+        "supplierId": 1
+    },
+        {
+        "id": 6,
+        "name": "Чай",
+        "weight": 10.4,
+        "price": 140.99,
+        "image": "",
+        "description": "Чай черный",
         "totalProtein": 5,
         "totalFat": 33,
         "totalCarbohydrate": 43,
         "totalCalories": 13,
         "salesPriority": 3,
-        "category": null,
-        "categoryId": 1,
-        "supplierId": 2,
-        "supplier": null,
-        "dishIngredients": [],
-        "orderLines": [],
-        "setLunchDishes": [],
-        "measurement": null
+        "categoryName": "Напитки",
+        "categoryId": 3,
+        "supplierId": 1
+    },
+        {
+        "id": 7,
+        "name": "Кофе",
+        "weight": 10.4,
+        "price": 140.99,
+        "image": "",
+        "description": "Кофе черный",
+        "totalProtein": 5,
+        "totalFat": 33,
+        "totalCarbohydrate": 43,
+        "totalCalories": 13,
+        "salesPriority": 3,
+        "categoryName": "Напитки",
+        "categoryId": 3,
+        "supplierId": 1
     }
 ]
 }
