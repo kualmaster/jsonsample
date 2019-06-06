@@ -139,7 +139,7 @@
         "supplierId": 1
     },
         {
-        "id": 3,
+        "id": 4,
         "name": "Омлет",
         "weight": 10.4,
         "price": 140.99,
@@ -155,7 +155,7 @@
         "supplierId": 1
     },
         {
-        "id": 4,
+        "id": 5,
         "name": "Плов",
         "weight": 10.4,
         "price": 140.99,
@@ -171,7 +171,7 @@
         "supplierId": 1
     },
         {
-        "id": 5,
+        "id": 6,
         "name": "Свинина с картошкой",
         "weight": 10.4,
         "price": 140.99,
@@ -187,7 +187,7 @@
         "supplierId": 1
     },
         {
-        "id": 6,
+        "id": 7,
         "name": "Чай",
         "weight": 10.4,
         "price": 140.99,
@@ -203,7 +203,7 @@
         "supplierId": 1
     },
         {
-        "id": 7,
+        "id": 8,
         "name": "Кофе",
         "weight": 10.4,
         "price": 140.99,
