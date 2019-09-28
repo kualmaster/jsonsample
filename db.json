@@ -18,9 +18,9 @@
     },
     {
       "id": 3,
-      "name": "Новосибирск - Пенза",
+      "name": "Мурманск - Пенза",
       "startstationid": 7,
-      "startstationname" : "Новосибирск",
+      "startstationname" : "Мурманск",
       "endstationid" : 6,
       "endstationname" : "Пенза"
     },
@@ -60,7 +60,7 @@
     },
      {
       "id": 7,
-      "name": "Новосибирск"
+      "name": "Мурманск"
     },
      {
       "id": 8,
@@ -268,5 +268,63 @@
         "categoryId": 3,
         "supplierId": 1
     }
-]
+],
+  "route_details": [
+    {
+      "id" : 1,
+      "routeid": 4,
+      "stationid": 1,
+      "stationname" : "Москва",
+      "stationorder" : 1
+    },
+    {
+      "id" : 2,
+      "routeid": 4,
+      "stationid": 2,
+      "stationname" : "Рязань",
+      "stationorder" : 2
+    },
+    {
+      "id" : 3,
+      "routeid": 4,
+      "stationid": 3,
+      "stationname" : "Новосибирск",
+      "stationorder" : 3
+    },
+    {
+      "id" : 4,
+      "routeid": 4,
+      "stationid": 4,
+      "stationname" : "Казань",
+      "stationorder" : 4
+    },
+    {
+      "id" : 5,
+      "routeid": 4,
+      "stationid": 5,
+      "stationname" : "Санкт-Петербург",
+      "stationorder" : 5
+    },
+    {
+      "id" : 6,
+      "routeid": 4,
+      "stationid": 6,
+      "stationname" : "Пенза",
+      "stationorder" : 6
+    },
+    {
+      "id" : 7,
+      "routeid": 4,
+      "stationid": 7,
+      "stationname" : "Мурманск",
+      "stationorder" : 7
+    },
+    {
+      "id" : 8,
+      "routeid": 4,
+      "stationid": 8,
+      "stationname" : "Владивосток",
+      "stationorder" : 8
+    }
+  ]
 }
