@@ -275,56 +275,64 @@
       "routeid": 4,
       "stationid": 1,
       "stationname" : "Москва",
-      "stationorder" : 1
+      "stationorder" : 1,
+      "deliveryavailable" : true
     },
     {
       "id" : 2,
       "routeid": 4,
       "stationid": 2,
       "stationname" : "Рязань",
-      "stationorder" : 2
+      "stationorder" : 2,
+      "deliveryavailable" : false
     },
     {
       "id" : 3,
       "routeid": 4,
       "stationid": 3,
       "stationname" : "Новосибирск",
-      "stationorder" : 3
+      "stationorder" : 3,
+      "deliveryavailable" : true
     },
     {
       "id" : 4,
       "routeid": 4,
       "stationid": 4,
       "stationname" : "Казань",
-      "stationorder" : 4
+      "stationorder" : 4,
+      "deliveryavailable" : false
     },
     {
       "id" : 5,
       "routeid": 4,
       "stationid": 5,
       "stationname" : "Санкт-Петербург",
-      "stationorder" : 5
+      "stationorder" : 5,
+      "deliveryavailable" : true
     },
     {
       "id" : 6,
       "routeid": 4,
       "stationid": 6,
       "stationname" : "Пенза",
-      "stationorder" : 6
+      "stationorder" : 6,
+      "deliveryavailable" : false
     },
     {
       "id" : 7,
       "routeid": 4,
       "stationid": 7,
       "stationname" : "Мурманск",
-      "stationorder" : 7
+      "stationorder" : 7,
+      "deliveryavailable" : true
     },
     {
       "id" : 8,
       "routeid": 4,
       "stationid": 8,
       "stationname" : "Владивосток",
-      "stationorder" : 8
+      "stationorder" : 8,
+      "deliveryavailable" : false
     }
   ]
 }
