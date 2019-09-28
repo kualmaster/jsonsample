@@ -2,19 +2,35 @@
   "routes": [
     {
       "id": 1,
-      "name": "Москва - Казань"
+      "name": "Москва - Казань",
+      "startstationid": 1,
+      "startstationname" : "Москва",
+      "endstationid" : 4,
+      "endstationname" : "Казань"
     },
     {
       "id": 2,
-      "name": "Рязань - Санкт-Петербург"
+      "name": "Рязань - Санкт-Петербург",
+      "startstationid": 2,
+      "startstationname" : "Рязань",
+      "endstationid" : 5,
+      "endstationname" : "Санкт-Петербург"
     },
     {
       "id": 3,
-      "name": "Новосибирск - Пенза"
+      "name": "Новосибирск - Пенза",
+      "startstationid": 7,
+      "startstationname" : "Новосибирск",
+      "endstationid" : 6,
+      "endstationname" : "Пенза"
     },
     {
       "id": 4,
-      "name": "Москва - Владивосток"
+      "name": "Москва - Владивосток",
+       "startstationid": 1,
+      "startstationname" : "Москва",
+      "endstationid" : 8,
+      "endstationname" : "Владивосток"
     }
   ],
   "stations": [
@@ -32,7 +48,23 @@
     },
     {
       "id": 4,
-      "name": "Касимов"
+      "name": "Казань"
+    },
+     {
+      "id": 5,
+      "name": "Санкт-Петербург"
+    },
+     {
+      "id": 6,
+      "name": "Пенза"
+    },
+     {
+      "id": 7,
+      "name": "Новосибирск"
+    },
+     {
+      "id": 8,
+      "name": "Владивосток"
     }
   ],
   "suppliers": [
