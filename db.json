@@ -89,7 +89,7 @@
       "imageurl" : "https://raw.githubusercontent.com/kualmaster/jsonsample/master/Supplier10.jpg"
     }
   ],
-  "dishes":[
+  "products":[
     {
         "id": 1,
         "name": "Борщ",
